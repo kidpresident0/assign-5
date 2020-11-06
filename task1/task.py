@@ -30,4 +30,4 @@ try:
     except ValueError:
         print("please enter whole number for quantity")
 except ValueError:
-    print("Please enter a number")
+    print("Please enter a number for unit price")
