@@ -1,6 +1,6 @@
 <h1>Discount</h1>
 <p>A retailer is selling miscellaneous items.<br>
-The retailer wantsto ernter</p>
+The retailer wants to erter</p>
 <ul>
   <li>unit price (decimal value)</li>
   <li>quantity (whole number)</li>
